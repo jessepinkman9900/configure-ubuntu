@@ -7,10 +7,10 @@
 # Must have ruby installed, run from_snap.sh before this
 # After running script, and trying to run fusuma, if fusuma not found is comming as error, try installing ruby from apt
 
-gpasswd -a $USER input
 apt-get install libinput-tools -y 
 apt-get install xdotool -y
 gem install fusuma
+gpasswd -a $USER input
 mkdir -p ~/.config/fusuma
 
 # adding to startup # if this fails, try normally
