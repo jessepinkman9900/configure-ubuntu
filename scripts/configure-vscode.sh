@@ -4,7 +4,7 @@
 
 while read -r line || [[ -n "$line" ]];do
 	code --install-extension $line	
-done < ../VSCode-Config/vscode-extensions
+done < ../VSCode-Config/vscode-extensions.txt
 
 # Change settings.json to preffered settings
 
