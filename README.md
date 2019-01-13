@@ -1,15 +1,17 @@
 # Ubuntu Configure Scripts <!-- omit in toc -->
 
+- These Scripts configure Ubuntu to my personalized prefrences.
+- These scripts are hardcoded to work without any need of intervention (except for some things, [this](./scripts/to-be-done.sh) script tells you those)
+- The theme is taken from [this](https://github.com/paullinuxthemer/Mc-OS-themes) GitHub Repo, author of theme is [@paullinuxthemer](https://github.com/paullinuxthemer)
+
+## Table of Contents <!-- omit in toc -->
+
 - [Installation](#installation)
 - [Store VSCode's Current Settings into Repo](#store-vscodes-current-settings-into-repo)
 - [Getting existing Extensions & Settings of VSCode into repo](#getting-existing-extensions--settings-of-vscode-into-repo)
   - [Linux](#linux)
   - [Windows / Mac / Linux](#windows--mac--linux)
 - [To Do](#to-do)
-
-- These Scripts configure Ubuntu to my personalized prefrences.
-- These scripts are hardcoded to work without any need of intervention (except for some things, [this](./scripts/to-be-done.sh) script tells you those)
-- The theme is taken from [this](https://github.com/paullinuxthemer/Mc-OS-themes) GitHub Repo, author of theme is [@paullinuxthemer](https://github.com/paullinuxthemer)
 
 ## Installation
 
