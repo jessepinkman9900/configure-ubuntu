@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "GitHub Plus",
+    "window.titleBarStyle": "native",
+    "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Google, IndentWidth: 4}",
+    "java.home": "/usr/lib/jvm/java-11-openjdk-amd64/",
+    "editor.fontFamily": "'Hack', 'monospace'",
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "markdown.extension.toc.githubCompatibility": true,
+    "editor.wordWrap": "on"
+}
