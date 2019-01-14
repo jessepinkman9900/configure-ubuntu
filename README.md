@@ -48,7 +48,7 @@ chmod u+x ./store-vscode-config.sh
 
 ## Getting existing Extensions & Settings of VSCode into repo
 
-> To make new settings stay with you, fork the repo and then commit changes after running this script in your forked repo
+> To make new settings stay with you, fork the repo and then commit changes after doing  in your forked repo
 
 ### Linux
 
