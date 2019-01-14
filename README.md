@@ -1,6 +1,6 @@
 # Ubuntu Configure Scripts <!-- omit in toc -->
 
-- These Scripts configure Ubuntu to my personalized prefrences.
+- These Scripts configure Ubuntu to my personalized preferences.
 - These scripts are hardcoded to work without any need of intervention (except for some things, [this](./scripts/to-be-done.sh) script tells you those)
 - The theme is taken from [this](https://github.com/paullinuxthemer/Mc-OS-themes) GitHub Repo, author of theme is [@paullinuxthemer](https://github.com/paullinuxthemer)
 
@@ -48,7 +48,7 @@ chmod u+x ./store-vscode-config.sh
 
 ## Getting existing Extensions & Settings of VSCode into repo
 
-> To make new settings stay with you, fork the repo and then commit changes after running this script in your forked repo
+> To make new settings stay with you, fork the repo and then commit changes after doing  in your forked repo
 
 ### Linux
 
@@ -57,10 +57,10 @@ chmod u+x ./store-vscode-config.sh
 ### Windows / Mac / Linux
 
 1. Extensions : Run `code --list-extensions` in terminal (Mac) / CMD (Win) and overwrite contents of [vscode-extensions](./VSCode-Config/vscode-extensions.txt) with the output you get by running that command.
-2. Open VSCode and go to Settings (Ctrl+,) and Click the Icon {} on top right corner. Copy all the contents under USER SETTINGS and replace the contents of [settings](./VSCode-Config/settings.json) file VSCode Config Folder with copied contents.
+2. Open VSCode and go to Settings ( Ctrl + , ) and Click the Icon { } on top right corner. Copy all the contents under USER SETTINGS and replace the contents of [settings](./VSCode-Config/settings.json) file VSCode Config Folder with copied contents.
 
 ## To Do
 
 - Add installation by downloading debian package from github repo's releases
-- Also write script to download Vagrant from Official site, not the unofficial PPA (if possible)
+- Add script to download Vagrant from Official site, not the unofficial PPA (if possible)
 - Use the official PPA mentioned on VirtualBox site instead of using the apt's virtualbox, as it is mostly outdated and it is possible to get updates using official PPA
