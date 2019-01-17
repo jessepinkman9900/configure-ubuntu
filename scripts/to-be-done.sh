@@ -15,3 +15,4 @@ echo
 echo "The gestures configuration is"
 tail scripts/multitouch-gestures.sh
 echo
+echo "If you logout and login and still gestures did not work, run fusuma -d, check if gestures are working. If you get touchpad not found run 'sudo gpasswd -a $USER input'"
