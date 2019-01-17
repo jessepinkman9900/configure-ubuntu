@@ -28,7 +28,7 @@ cd -
 # MacOS MJV Theme Installation
 
 mkdir -p ~/.themes
-cp -r ../McOS-MJV-Theme/copy-to-themes/* ~/.themes
+cp -r McOS-MJV-Theme/copy-to-themes/* ~/.themes
 
 # Common things
 
