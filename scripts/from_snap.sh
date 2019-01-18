@@ -12,7 +12,7 @@ snap install ao # Microsoft To-Do Client
 mkdir -p ~/.config/autostart
 cp /snap/ao/current/meta/gui/ao.desktop ~/.config/autostart
 snap install termius-app
-snap install brave
+snap install chromium
 snap install vlc
 snap install gimp
 snap install hugo
