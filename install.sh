@@ -12,10 +12,10 @@ echo "Installing Multi-Touch Gestures"
 chmod u+x ./scripts/multitouch-gestures.sh
 ./scripts/multitouch-gestures.sh
 clear
-echo "Installing OneDrive"
-chmod u+x ./scripts/onedrive-install.sh
-./scripts/onedrive-install.sh
-clear
+#echo "Installing OneDrive"
+#chmod u+x ./scripts/onedrive-install.sh
+#./scripts/onedrive-install.sh
+#clear
 echo "To be Done"
 chmod u+x ./scripts/to-be-done.sh
 ./scripts/to-be-done.sh

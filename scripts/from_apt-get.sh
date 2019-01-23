@@ -18,18 +18,6 @@ apt-get install gnome-tweak-tool -y
 apt install gnome-shell-extensions -y
 apt-get install chrome-gnome-shell
 
-# Icon theme installation
-
-mkdir -p ~/.icons
-cd ~/.icons
-git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git # Icon theme https://github.com/keeferrourke/la-capitaine-icon-theme
-cd -
-
-# MacOS MJV Theme Installation
-
-mkdir -p ~/.themes
-cp -r McOS-MJV-Theme/copy-to-themes/* ~/.themes
-
 # Common things
 
 apt-get install snapd -y
