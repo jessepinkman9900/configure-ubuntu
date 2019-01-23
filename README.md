@@ -2,7 +2,6 @@
 
 - These Scripts configure Ubuntu to my personalized preferences.
 - These scripts are hardcoded to work without any need of intervention (except for some things, [this](./scripts/to-be-done.sh) script tells you those)
-- The theme is taken from [this](https://github.com/paullinuxthemer/Mc-OS-themes) GitHub Repo, author of theme is [@paullinuxthemer](https://github.com/paullinuxthemer)
 
 ## Table of Contents <!-- omit in toc -->
 
