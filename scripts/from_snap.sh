@@ -8,7 +8,11 @@ snap install node --channel=11/stable --classic
 snap install ruby --classic
 snap install go --classic
 snap install termius-app
+<<<<<<< HEAD
 snap install chromium 
+=======
+snap install chromium
+>>>>>>> e8eb9ad3881d2ab03abbfdf4d88eedbcc7dad68e
 snap install vlc
 snap install gimp
 snap install hugo
