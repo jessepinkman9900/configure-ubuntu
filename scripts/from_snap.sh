@@ -2,6 +2,7 @@
 
 # To be run as sudo
 
+snap install atom --classic
 snap install vscode --classic
 apt-get install fonts-hack-ttf -y
 snap install node --channel=11/stable --classic
