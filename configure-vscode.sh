@@ -12,5 +12,3 @@ done < VSCode-Config/vscode-extensions
 # Change settings.json to preffered settings
 
 cp VSCode-Config/settings.json ~/.config/Code/User/
-
-
